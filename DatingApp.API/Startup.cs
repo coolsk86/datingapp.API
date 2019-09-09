@@ -44,6 +44,7 @@ namespace DatingApp.API
                         ValidateIssuer = false,
                         ValidateAudience = false
                     };
+
                 });
         }
 
